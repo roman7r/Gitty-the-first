@@ -2,7 +2,7 @@ class Car:
 	# class veriables
 	vehicle_type = "suy"
 	model = "S90"
-
+	print('Ok')
 	# Constructor method with instance variables brand and cost
 	def __init__(self, brand, cost):
 		self.brand=brand
